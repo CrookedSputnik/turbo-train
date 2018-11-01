@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+.h1
+
+#b1 {
+	margin-left:40%;
+	margin-right:40%;
+background-color:orange;
+width:500px;
+margin-top:100px;
+}
+
+#b2 {
+	
+	margin-right:40%;
+background-color:#6C6;
+width:500px;
+margin-top:200px;
+margin-left:40%;
+}
+
+
+#Body {background-color:#69F
+}
+
+p {
+	color:#69F;
+	margin-left:40%;
+	margin-right:40%;
+	font-size:89px;
+	
+}
+
+#resultImage {
+	opacity:0;
+	width:400px;
+	height:400px;
+	margin-left:43%;
+	margin-right:40%;
+	float:center;
+	margin-top:40px;
+	
+}
